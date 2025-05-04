@@ -1,6 +1,6 @@
 module github.com/szerookii/airpodsgo
 
-go 1.23.5
+go 1.18
 
 require (
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
